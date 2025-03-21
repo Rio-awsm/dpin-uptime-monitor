@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "dpin-uptime-monitor",
   "private": true,
   "scripts": {
     "build": "turbo run build",
